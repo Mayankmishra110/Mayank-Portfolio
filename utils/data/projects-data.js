@@ -48,7 +48,7 @@ export const projectsData = [
     ],
     code: "https://github.com/Mayankmishra110/PixelPals",
     demo: "https://pixels-pals.vercel.app/",
-    image: "/Pixelpals.png",
+    image: "/PixelPals.png",
     role: "Full Stack Developer",
   },
   // {

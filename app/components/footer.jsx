@@ -13,7 +13,7 @@ function Footer() {
             Made with ❤️ By <span> </span>
             <Link
               target="_blank"
-              href="https://www.linkedin.com/in/yashdabhade283/"
+              href="https://www.linkedin.com/in/MayankMishracse/"
               className="text-[#16f2b3]"
             >
               Mayank Kr Mishra
